@@ -5,6 +5,3 @@ float64 steering
 float64 velocity
 float64 acceleration
 int32 gear_cmd
-
-
-

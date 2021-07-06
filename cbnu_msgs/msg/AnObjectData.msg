@@ -6,3 +6,8 @@ float32 global_pos_lon
 float32 width
 float32 length
 float32 height
+
+float32 local_heading
+float32 local_velocity
+float32 global_heading
+float32 global_velocity
