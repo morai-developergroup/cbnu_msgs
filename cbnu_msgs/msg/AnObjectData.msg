@@ -11,3 +11,5 @@ float32 local_heading
 float32 local_velocity
 float32 global_heading
 float32 global_velocity
+
+geometry_msgs/Vector3 rel_velocity
